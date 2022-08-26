@@ -1,0 +1,23 @@
+body {
+  background-color: lightgreen;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+header {
+  height: 50px;
+  width: 100%;
+}
+
+#div1 {
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+
+#div2 {
+  height: 100%;
+  width: 75%;
+  float: right;
+}
